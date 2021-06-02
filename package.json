@@ -1,0 +1,22 @@
+{
+  "name": "reckless-shop",
+  "version": "1.0.0",
+  "description": "Ecommerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richardjalba/reckless-shop.git"
+  },
+  "author": "Richard Alba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richardjalba/reckless-shop/issues"
+  },
+  "homepage": "https://github.com/richardjalba/reckless-shop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
